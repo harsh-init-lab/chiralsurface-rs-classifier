@@ -1,0 +1,16 @@
+name: chiral-classifier
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy>=1.26
+  - matplotlib>=3.8
+  - pillow>=10.0
+  - scikit-learn>=1.4
+  - pip
+  - pip:
+      - torch>=2.2.0
+      - torchvision>=0.17.0
+      - opencv-python>=4.9.0
