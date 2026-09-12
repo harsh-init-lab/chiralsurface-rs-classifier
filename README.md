@@ -320,7 +320,7 @@ relationship to the corresponding GitHub release.
 
 **Code and notebooks**
 
-Copyright (C) 2026 C Badala Viswanatha, Ka Man Yu, Benito Arnoldi,Anagha Aravind, Aaruni Kaushik, Jannis Lessmeister, Martin Aeschlimann, Benjamin Stadtmueller,∥ and S. Harshini Tekur
+Copyright (C) 2026 C Badala Viswanatha, Ka Man Yu, Benito Arnoldi,Anagha Aravind, Aaruni Kaushik, Jannis Lessmeister, Martin Aeschlimann, Benjamin Stadtmueller, and S. Harshini Tekur.
 
 The code and Jupyter notebooks in this repository are licensed under the
 [GNU General Public License v3.0](LICENSE.txt).
