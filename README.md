@@ -1,7 +1,8 @@
 # Chiral Crystal R/S Classification Using Transfer Learning
 
 Reproducible Jupyter notebooks for binary classification of crystal chirality
-as **R** or **S** using transfer learning with a pretrained ResNet-18 model.
+as **R** or **S** using transfer learning with a pretrained ResNet-18 model. 
+The pre-print for this work is available here: https://arxiv.org/abs/2606.13144
 
 The project compares two image modalities:
 
@@ -319,7 +320,7 @@ relationship to the corresponding GitHub release.
 
 **Code and notebooks**
 
-Copyright (C) 2026 <C Badala Viswanatha, Ka Man Yu, Benito Arnoldi,Anagha Aravind, Aaruni Kaushik, Jannis Lessmeister, Martin Aeschlimann, Benjamin Stadtmueller,∥ and S. Harshini Tekur>
+Copyright (C) 2026 C Badala Viswanatha, Ka Man Yu, Benito Arnoldi,Anagha Aravind, Aaruni Kaushik, Jannis Lessmeister, Martin Aeschlimann, Benjamin Stadtmueller,∥ and S. Harshini Tekur
 
 The code and Jupyter notebooks in this repository are licensed under the
 [GNU General Public License v3.0](LICENSE.txt).
